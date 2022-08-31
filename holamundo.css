@@ -1,0 +1,10 @@
+.flex-container{
+    display: flex;
+    background-color: blanchedalmond;
+    height: 100px;
+    align-items: flex-end;
+}
+
+.flex-container div{
+    
+}

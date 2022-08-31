@@ -1,0 +1,26 @@
+.caja {
+    margin: 0;
+    border: 3px solid #000 ;
+    width: 600px;
+
+}
+
+body{
+    background-image: url("imagenes/movie-alice-in-wonderland-2010-cheshire-cat-alice-in-wonderland-wallpaper-preview\ \(1\).jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+p{ 
+    background: aquamarine;
+    padding: 15px 30px 20px 100px;
+    color: blueviolet;
+    border: 20px rgba(red, green, blue, alpha);
+   
+    margin-top: 30px;
+    margin-right: 1px;
+    margin-bottom: 20px;
+    margin-left: 5px ;
+}
